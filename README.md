@@ -13,18 +13,11 @@ strategies using historical stock and ETF data from Yahoo Finance.
 - Simple SPY 200-day SMA bull/bear market regime analysis
 - CSV downloads for portfolio value history and performance metrics
 
-## Run Locally
+# Portfolio Rebalancing Simulator
 
-```powershell
-py -m pip install -r requirements.txt
-py -m streamlit run app.py
-```
+ **Live Demo:** https://your-app-name.streamlit.app
 
-Then open:
-
-```text
-http://localhost:8501
-```
+A web application that simulates portfolio rebalancing strategies, compares portfolio performance with a benchmark, and visualizes key investment metrics.
 
 ## Deployment
 
