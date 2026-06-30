@@ -15,7 +15,7 @@ strategies using historical stock and ETF data from Yahoo Finance.
 
 # Portfolio Rebalancing Simulator
 
- **Live Demo:** https://your-app-name.streamlit.app
+ **Live Demo:** (https://guthikonda-akshaya-portfolio-rebalancing-simulator-app-68izmo.streamlit.app/)
 
 A web application that simulates portfolio rebalancing strategies, compares portfolio performance with a benchmark, and visualizes key investment metrics.
 
